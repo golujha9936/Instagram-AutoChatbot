@@ -18,7 +18,7 @@ client.on('messageCreate', (message) => {
     }).catch(err => {});
 });
  //Made by Atreya YT
-client.login('instaID', 'instaPassword'); 
+client.login('pranavsinha562@gmail.com', 'Aryan@2007'); 
 //Made by Atreya YT
 
 
